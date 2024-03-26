@@ -1,0 +1,30 @@
+controllers:
+    resource:
+        path: ../src/Controller/
+        namespace: App\Controller
+    type: attribute
+
+produkty_showAll:
+    path: /produkty
+    controller: App\Controller\ProduktyController::showAll
+    methods: GET
+
+produkty_create:
+    path: /produkty
+    controller: App\Controller\ProduktyController::create
+    methods: POST
+
+produkty_showOne:
+    path: /produkty/{id}
+    controller: App\Controller\ProduktyController::showOne
+    methods: GET
+
+produkty_update:
+    path: /produkty/{id}
+    controller: App\Controller\ProduktyController::update
+    methods: PUT
+
+produkty_delete:
+    path: /produkty/{id}
+    controller: App\Controller\ProduktyController::delete
+    methods: DELETE
