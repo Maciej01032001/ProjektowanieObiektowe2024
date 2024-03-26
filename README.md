@@ -19,9 +19,9 @@ Demo: [link](https://github.com/Maciej01032001/ProjektowanieObiektowe2024/blob/m
 
 Zadanie 2
 
-- [x] 3.0 Należy stworzyć jeden model z kontrolerem z produktami, zgodnie z CRUD [link](https://github.com/Maciej01032001/ProjektowanieObiektowe2024/commit/31b18688849aef8fb94c10be01cb992ad58d0680)
+- [x] 3.0 Należy stworzyć jeden model z kontrolerem z produktami, zgodnie z CRUD [link](https://github.com/Maciej01032001/ProjektowanieObiektowe2024/commit/57f0ab0ff871d081327508c964f4b058de96fc0b)
 
-- [x] 3.5 Należy stworzyć skrypty do testów endpointów via curl [link](https://github.com/Maciej01032001/ProjektowanieObiektowe2024/commit/31b18688849aef8fb94c10be01cb992ad58d0680)
+- [x] 3.5 Należy stworzyć skrypty do testów endpointów via curl [link](https://github.com/Maciej01032001/ProjektowanieObiektowe2024/commit/57f0ab0ff871d081327508c964f4b058de96fc0b)
 
 - ~~[ ] 4.0 Należy stworzyć dwa dodatkowe kontrolery wraz z modelami~~
 
