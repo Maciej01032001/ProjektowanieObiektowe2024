@@ -19,9 +19,9 @@ Demo: [link](https://github.com/Maciej01032001/ProjektowanieObiektowe2024/blob/m
 
 Zadanie 2
 
-- [x] 3.0 Należy stworzyć jeden model z kontrolerem z produktami, zgodnie z CRUD
+- [x] 3.0 Należy stworzyć jeden model z kontrolerem z produktami, zgodnie z CRUD [link](https://github.com/Maciej01032001/ProjektowanieObiektowe2024/commit/31b18688849aef8fb94c10be01cb992ad58d0680)
 
-- [x] 3.5 Należy stworzyć skrypty do testów endpointów via curl
+- [x] 3.5 Należy stworzyć skrypty do testów endpointów via curl [link](https://github.com/Maciej01032001/ProjektowanieObiektowe2024/commit/31b18688849aef8fb94c10be01cb992ad58d0680)
 
 - ~~[ ] 4.0 Należy stworzyć dwa dodatkowe kontrolery wraz z modelami~~
 
@@ -29,4 +29,6 @@ Zadanie 2
 
 - ~~[ ] 5.0 Stworzenie panelu administracyjnego z mockowanym logowaniem~~
 
-Kod: 
+Kod: [link](https://github.com/Maciej01032001/ProjektowanieObiektowe2024/tree/main/Zadanie2/projobj)
+
+Demo: [link](https://github.com/Maciej01032001/ProjektowanieObiektowe2024/blob/main/Demos/Demo%20Zadanie2%20Symphony.mp4)
