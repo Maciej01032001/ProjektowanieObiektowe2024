@@ -32,3 +32,20 @@ Zadanie 2
 Kod: [link](https://github.com/Maciej01032001/ProjektowanieObiektowe2024/tree/main/Zadanie2/projobj)
 
 Demo: [link](https://github.com/Maciej01032001/ProjektowanieObiektowe2024/blob/main/Demos/Demo%20Zadanie2%20Symphony.mp4)
+
+
+Zadanie 3
+
+- [x] 3.0 Należy stworzyć jeden kontroler wraz z danymi wyświetlanymi z listy na endpoint’cie w formacie JSON - Kotlin + Spring Boot [link](https://github.com/Maciej01032001/ProjektowanieObiektowe2024/commit/f5bd215da0581390dc09921ac26d88f3743e5c47)
+
+- [x] 3.5 Należy stworzyć klasę do autoryzacji (mock) jako Singleton w formie eager [link](https://github.com/Maciej01032001/ProjektowanieObiektowe2024/commit/f5bd215da0581390dc09921ac26d88f3743e5c47)
+
+- [x] 4.0 Należy obsłużyć dane autoryzacji przekazywane przez użytkownika [link](https://github.com/Maciej01032001/ProjektowanieObiektowe2024/commit/f5bd215da0581390dc09921ac26d88f3743e5c47)
+
+- ~~[ ] 4.5 Należy wstrzyknąć singleton do głównej klasy via @Autowired~~
+
+- ~~[ ] 5.0 Obok wersji Eager do wyboru powinna być wersja Singletona w wersji lazy~~
+
+Kod: [link](https://github.com/Maciej01032001/ProjektowanieObiektowe2024/tree/main/Zadanie3/ProjektowanieObiektowe3)
+
+Demo: [link](https://github.com/Maciej01032001/ProjektowanieObiektowe2024/blob/main/Demos/Demo%20Zadanie3%20Spring-boot.mp4)
