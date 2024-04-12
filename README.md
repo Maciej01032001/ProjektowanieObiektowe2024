@@ -49,3 +49,19 @@ Zadanie 3
 Kod: [link](https://github.com/Maciej01032001/ProjektowanieObiektowe2024/tree/main/Zadanie3/ProjektowanieObiektowe3)
 
 Demo: [link](https://github.com/Maciej01032001/ProjektowanieObiektowe2024/blob/main/Demos/Demo%20Zadanie3%20Spring-boot.mp4)
+
+Zadanie 4
+
+- [x] 3.0 Należy stworzyć aplikację we frameworki echo w j. Go, która będzie miała kontroler Pogody, która pozwala na pobieranie danych o pogodzie (lub akcjach giełdowych) [link](https://github.com/Maciej01032001/ProjektowanieObiektowe2024/commit/554100bfd0f0777139df670fdcb4decd2f2ac8e2)
+
+- [x] 3.5 Należy stworzyć model Pogoda (lub Giełda) wykorzystując gorm, a dane załadować z listy przy uruchomieniu [link](https://github.com/Maciej01032001/ProjektowanieObiektowe2024/commit/554100bfd0f0777139df670fdcb4decd2f2ac8e2)
+
+- [x] 4.0 Należy stworzyć klasę proxy, która pobierze dane z serwisu zewnętrznego podczas zapytania do naszego kontrolera [link](https://github.com/Maciej01032001/ProjektowanieObiektowe2024/commit/554100bfd0f0777139df670fdcb4decd2f2ac8e2)
+
+- [x] 4.5 Należy zapisać pobrane dane z zewnątrz do bazy danych [link](https://github.com/Maciej01032001/ProjektowanieObiektowe2024/commit/554100bfd0f0777139df670fdcb4decd2f2ac8e2)
+
+- [x] 5.0 Należy rozszerzyć endpoint na więcej niż jedną lokalizację (Pogoda), lub akcje (Giełda) zwracając JSONa [link](https://github.com/Maciej01032001/ProjektowanieObiektowe2024/commit/554100bfd0f0777139df670fdcb4decd2f2ac8e2)
+
+Kod: [link](https://github.com/Maciej01032001/ProjektowanieObiektowe2024/tree/main/Zadanie4/ProjObiektowe4)
+
+Demo: [link](https://github.com/Maciej01032001/ProjektowanieObiektowe2024/blob/main/Demos/Demo%20Zadanie4%20Go.mp4)
