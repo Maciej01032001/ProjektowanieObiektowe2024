@@ -10,7 +10,7 @@ import (
 	"net/http"
 )
 
-func mapPolishToEnglish(polishData models.WeatherDataPolish) models.WeatherData {
+func MapPolishToEnglish(polishData models.WeatherDataPolish) models.WeatherData {
 	return models.WeatherData{
 		StationID:     polishData.ID,
 		StationName:   polishData.StationName,
@@ -50,9 +50,9 @@ func FetchAndSaveDataToDatabase(ctx echo.Context, gormDB *gorm.DB) error {
 	if len(data) == 0 {
 		return echo.NewHTTPError(http.StatusNotFound, "Empty data slice received from API")
 	}
-	
+
 	for _, item := range data {
-		weatherData := mapPolishToEnglish(item)
+		weatherData := MapPolishToEnglish(item)
 		if err := gormDB.Create(&weatherData).Error; err != nil {
 			return err
 		}
