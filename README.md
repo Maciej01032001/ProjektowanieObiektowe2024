@@ -65,3 +65,19 @@ Zadanie 4
 Kod: [link](https://github.com/Maciej01032001/ProjektowanieObiektowe2024/tree/main/Zadanie4/ProjObiektowe4)
 
 Demo: [link](https://github.com/Maciej01032001/ProjektowanieObiektowe2024/blob/main/Demos/Demo%20Zadanie4%20Go.mp4)
+
+Zadanie 5
+
+- [x] 3.0 W ramach projektu należy stworzyć dwa komponenty: Produkty oraz Płatności; Płatności powinny wysyłać do aplikacji serwerowej dane, a w Produktach powinniśmy pobierać dane o produktach z aplikacji serwerowej [link](https://github.com/Maciej01032001/ProjektowanieObiektowe2024/commit/b32e7c3e9a04e6d60b367ab6cef82de2b16efa25)
+
+- [x] 3.5 Należy dodać Koszyk wraz z widokiem; należy wykorzystać routing [link](https://github.com/Maciej01032001/ProjektowanieObiektowe2024/commit/b32e7c3e9a04e6d60b367ab6cef82de2b16efa25)
+
+- [x] 4.0 Dane pomiędzy wszystkimi komponentami powinny być przesyłane za pomocą React hooks [link](https://github.com/Maciej01032001/ProjektowanieObiektowe2024/commit/b32e7c3e9a04e6d60b367ab6cef82de2b16efa25)
+
+- [ ] ~~4.5 Należy dodać skrypt uruchamiający aplikację serwerową oraz kliencką na dockerze via docker-compose~~
+
+- [ ] ~~5.0 Należy wykorzystać axios’a oraz dodać nagłówki pod CORS~~
+
+Kod: [link](https://github.com/Maciej01032001/ProjektowanieObiektowe2024/tree/main/Zadanie5)
+
+Demo: [link](https://github.com/Maciej01032001/ProjektowanieObiektowe2024/blob/main/Demos/Demo%20Zadanie5%20Front.mp4)
