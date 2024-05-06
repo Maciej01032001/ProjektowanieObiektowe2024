@@ -1,4 +1,6 @@
 import React from 'react';
+import PropTypes from 'prop-types';
+
 
 function Basket({productsInBasket}) {
     const productCounts = {};
@@ -24,5 +26,13 @@ function Basket({productsInBasket}) {
         </div>
     );
 }
+
+Basket.propTypes = {
+    productsInBasket: PropTypes.arrayOf(
+        PropTypes.shape({
+            id: PropTypes.number.isRequired
+        })
+    ).isRequired,
+};
 
 export default Basket;
