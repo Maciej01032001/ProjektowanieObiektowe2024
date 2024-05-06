@@ -1,18 +1,16 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 
-function Payment({ paymentId, setPaymentId, paymentValue, setPaymentValue, handlePayment }) {
+function Payment({paymentId, setPaymentId, paymentValue, setPaymentValue, handlePayment}) {
     return (
         <div>
             <h2>Make Payment</h2>
             <label>
-                Enter Payment ID:
-                <input type="text" value={paymentId} onChange={e => setPaymentId(e.target.value)}/>
+                Enter ID:<input type="text" value={paymentId} onChange={e => setPaymentId(e.target.value)}/>
             </label>
 
             <label>
-                Enter Payment Value:
-                <input type="text" value={paymentValue} onChange={e => setPaymentValue(e.target.value)}/>
+                Enter Value:<input type="text" value={paymentValue} onChange={e => setPaymentValue(e.target.value)}/>
             </label>
 
             <button onClick={handlePayment}>Pay</button>
