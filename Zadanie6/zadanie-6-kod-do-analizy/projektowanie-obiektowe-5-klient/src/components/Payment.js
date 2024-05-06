@@ -7,21 +7,21 @@ function Payment({ paymentId, setPaymentId, paymentValue, setPaymentValue, handl
             <h2>Make Payment</h2>
             <label>
                 Enter Payment ID:
-            </label>
             <input
                 type="text"
                 value={paymentId}
                 onChange={e => setPaymentId(e.target.value)}
             />
+            </label>
 
             <label>
                 Enter Payment Value:
-            </label>
             <input
                 type="text"
                 value={paymentValue}
                 onChange={e => setPaymentValue(e.target.value)}
             />
+            </label>
 
             <button onClick={handlePayment}>Pay</button>
         </div>
