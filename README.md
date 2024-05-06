@@ -81,3 +81,19 @@ Zadanie 5
 Kod: [link](https://github.com/Maciej01032001/ProjektowanieObiektowe2024/tree/main/Zadanie5)
 
 Demo: [link](https://github.com/Maciej01032001/ProjektowanieObiektowe2024/blob/main/Demos/Demo%20Zadanie5%20Front.mp4)
+
+Zadanie 6
+
+- [x] 3.0 Należy dodać eslint w hookach gita [link](https://github.com/Maciej01032001/ProjektowanieObiektowe2024/commit/5992c1f440125c8dec8add693185e47951ce1567)
+
+- [x] 3.5 Należy wyeliminować wszystkie bugi w kodzie w Sonarze (kod aplikacji klienckiej) [link](https://github.com/Maciej01032001/ProjektowanieObiektowe2024/commit/5992c1f440125c8dec8add693185e47951ce1567)
+
+- [x] 4.0 Należy wyeliminować wszystkie zapaszki w kodzie w Sonarze (kod aplikacji klienckiej) [link](https://github.com/Maciej01032001/ProjektowanieObiektowe2024/commit/5992c1f440125c8dec8add693185e47951ce1567)
+
+- [x] 4.5 Należy wyeliminować wszystkie podatności oraz błędy bezpieczeństwa w kodzie w Sonarze (kod aplikacji klienckiej) [link](https://github.com/Maciej01032001/ProjektowanieObiektowe2024/commit/5992c1f440125c8dec8add693185e47951ce1567)
+
+- [x] 5.0 Zredukować duplikaty kodu do 0% [link](https://github.com/Maciej01032001/ProjektowanieObiektowe2024/commit/5992c1f440125c8dec8add693185e47951ce1567)
+
+Kod: [link](https://github.com/Maciej01032001/ProjektowanieObiektowe2024/tree/main/Zadanie6)
+
+Demo: [link](https://github.com/Maciej01032001/ProjektowanieObiektowe2024/blob/main/Demos/Demo%20Zadanie6%20SonarCloud.mp4)
