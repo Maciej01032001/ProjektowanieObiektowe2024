@@ -97,3 +97,19 @@ Zadanie 6
 Kod: [link](https://github.com/Maciej01032001/ProjektowanieObiektowe2024/tree/main/Zadanie6)
 
 Demo: [link](https://github.com/Maciej01032001/ProjektowanieObiektowe2024/blob/main/Demos/Demo%20Zadanie6%20SonarCloud.mp4)
+
+Zadanie 7
+
+- [x] 3.0 Należy stworzyć kontroler wraz z modele Produktów zgodny z CRUD w ORM Fluent [link](https://github.com/Maciej01032001/ProjektowanieObiektowe2024/commit/6f3fe4db5b474b05599314f6a9f99a3963648cd7)
+
+- [x] 3.5 Należy stworzyć szablony w Leaf [link](https://github.com/Maciej01032001/ProjektowanieObiektowe2024/commit/6f3fe4db5b474b05599314f6a9f99a3963648cd7)
+
+- [ ] ~~4.0 Należy stworzyć drugi model oraz kontroler Kategorii wraz z relacją~~
+
+- [ ] ~~4.5 Należy wykorzystać Redis do przechowywania danych~~
+
+- [ ] ~~5.0 Wrzucić aplikację na heroku~~
+
+Kod: [link](https://github.com/Maciej01032001/ProjektowanieObiektowe2024/tree/main/Zadanie7/zadanie7)
+
+Demo: [link](https://github.com/Maciej01032001/ProjektowanieObiektowe2024/blob/main/Demos/Demo%20Zadanie7%20Vapor.mp4)
