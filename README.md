@@ -129,3 +129,19 @@ Zadanie 8
 Kod: [link](https://github.com/Maciej01032001/ProjektowanieObiektowe2024/tree/main/Zadanie8)
 
 Demo: [link](https://github.com/Maciej01032001/ProjektowanieObiektowe2024/blob/main/Demos/Demo%20Zadanie8%20React-Native.mp4)
+
+Zadanie 9
+
+- [x] 3.0 Należy stworzyć 20 przypadków testowych w CypressJS lub Selenium (Kotlin, Python, Java, JS, Go, Scala) [link](https://github.com/Maciej01032001/ProjektowanieObiektowe2024/commit/250c9cf90ab2a1442b8f3c42ef8821e0a70dff07)
+
+- [x] 3.5 Należy rozszerzyć testy funkcjonalne, aby zawierały minimum 50 asercji [link](https://github.com/Maciej01032001/ProjektowanieObiektowe2024/commit/250c9cf90ab2a1442b8f3c42ef8821e0a70dff07)
+
+- [x] 4.0 Należy stworzyć testy jednostkowe do wybranego wcześniejszego projektu z minimum 50 asercjami [link](https://github.com/Maciej01032001/ProjektowanieObiektowe2024/commit/250c9cf90ab2a1442b8f3c42ef8821e0a70dff07)
+
+- [ ] ~~4.5 Należy dodać testy API, należy pokryć wszystkie endpointy z minimum jednym scenariuszem negatywnym per endpoint~~
+
+- [ ] ~~5.0 Należy uruchomić testy funkcjonalne na Browserstacku~~
+
+Kod: [link](https://github.com/Maciej01032001/ProjektowanieObiektowe2024/tree/main/Zadanie9)
+
+Demo: [link](https://github.com/Maciej01032001/ProjektowanieObiektowe2024/tree/main/Demos/Dema%20Zadanie%209%20-%20Testy)
