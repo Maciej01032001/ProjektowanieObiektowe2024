@@ -113,3 +113,19 @@ Zadanie 7
 Kod: [link](https://github.com/Maciej01032001/ProjektowanieObiektowe2024/tree/main/Zadanie7/zadanie7)
 
 Demo: [link](https://github.com/Maciej01032001/ProjektowanieObiektowe2024/blob/main/Demos/Demo%20Zadanie7%20Vapor.mp4)
+
+Zadanie 8
+
+- [x] 3.0 stworzenie listy kategorii oraz produktów [link](https://github.com/Maciej01032001/ProjektowanieObiektowe2024/commit/1e9db93f97e870266ce5afadf94bc7c46a66dbb9)
+
+- [x] 3.5 dodać koszyk [link](https://github.com/Maciej01032001/ProjektowanieObiektowe2024/commit/1e9db93f97e870266ce5afadf94bc7c46a66dbb9)
+
+- [ ] ~~4.0 stworzyć bazę w Realmie~~ 
+
+- [ ] ~~4.5 dodać płatności w Stripe~~
+
+- [ ] ~~5.0 logowanie i rejestrację via Oauth2 dodać~~
+
+Kod: [link](https://github.com/Maciej01032001/ProjektowanieObiektowe2024/tree/main/Zadanie8)
+
+Demo: [link](https://github.com/Maciej01032001/ProjektowanieObiektowe2024/blob/main/Demos/Demo%20Zadanie8%20React-Native.mp4)
